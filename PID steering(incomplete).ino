@@ -59,7 +59,6 @@ Things to test:
 */
 
 
-// LOOOOOOOK HERE
 void checkEncoders() {
   currentMillis = millis();
   
